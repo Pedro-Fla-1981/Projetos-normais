@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    background-color: aqua;
+}
+section{
+    background-color: white;
+    margin: auto;
+    width: 250px;
+    border-radius: 15px;
+}
