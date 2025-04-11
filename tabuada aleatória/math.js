@@ -37,6 +37,3 @@ function enviar(){
     }
     num.value = ''
 }
-
-
-
